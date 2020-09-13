@@ -1,0 +1,10 @@
+cache
+output
+__pycache__
+*.pyc
+*.sublime-*
+*.pid
+*.db
+.idea/
+venv
+.vscode
