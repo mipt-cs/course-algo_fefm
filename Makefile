@@ -16,7 +16,7 @@ FTP_TARGET_DIR=/
 SSH_HOST=remote.vdi.mipt.ru
 SSH_PORT=50298
 SSH_USER=tkhirianov
-SSH_TARGET_DIR=/usr/share/nginx/html/algo
+SSH_TARGET_DIR=/usr/share/nginx/html/algo_fefm
 
 S3_BUCKET=my_s3_bucket
 

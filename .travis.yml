@@ -3,8 +3,6 @@ language: python
 python:
 - '3.7'
 install: pip install pelican beautifulsoup4 pelican-youtube
-before_script:
-- tar -xz -C $HOME
 script:
 - make html
 branches:
