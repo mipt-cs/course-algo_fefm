@@ -1,9 +1,9 @@
 Алгоритмы полного перебора
 ############################################
 
-:date: 2019-09-30 09:00
-:summary: Алгоритмы полного перебора. Тест простоты. Факторизация. Перебор делителей.
-:status: draft
+:date: 2019-10-05 09:00
+:summary: Функции. Алгоритмы полного перебора. Делители.
+:status: published
 
 .. default-role:: code
 .. contents:: Содержание
@@ -11,8 +11,8 @@
 Контест №4
 ==========
 
-Участвовать_ в контесте.
+Ссылки на контесты
 
-.. _Участвовать: http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=094105
-
-
+- `Начинающие (участвовать) <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94206>`_
+- `Основные (участвовать) <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94207>`_
+- `Продвинутые (участвовать) <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94208>`_
