@@ -1,36 +1,32 @@
 Контрольная работа №1
-############################################
+#####################
 
-:date: 2019-10-14 09:00
-:summary: Контрольная работа по пройденным темам
-:status: draft
+:date: 2020-10-19 09:00
+:summary: Ссылка на контрольную
+:status: published
 
 .. default-role:: code
 .. contents:: Содержание
 
-==========
+Инструкция
+----------
 
-`Среда 15:30`__.
+1. Сначала попробуйте пройти по ссылке "участие" для своей группы. Введите свой логин-пароль и нажмите "Войти". Если возникает ошибка регистрации, тогда следуйте шагу 2.
+2. Пройдите по ссылке "регистрация" для своей группы. Новую учётную запись создавать **не нужно**. Вам нужно ввести свой логин-пароль и нажать "Войти". Затем нажмите "Участвовать" (сверху голубая полоса).
 
-.. __: http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=093103
+Контрольная
+-----------
 
-`Среда 17:05`__.
+День проведения 19 октября 2020, время начала 17:05, время окончания 20:05.
 
-.. __: http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=093104
+Во время контрольной запрещено использование мобильных устройств.
 
-`Четверг 13:55`__.
-
-.. __: http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=093107
-
-`Четверг 15:30`__.
-
-.. __: http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=093108
-
-`Пятница 12:20`__.
-
-.. __: http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=093109
-
-`Пятница 15:30`__.
-
-.. __: http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=093110
-
+- Начинающие
+    - `Начинающие (участие) <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94212>`_
+    - `Начинающие (регистрация) <http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=94212>`_
+- Основные
+    - `Основные (участие) <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94213>`_
+    - `Основные (регистрация) <http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=94213>`_
+- Продвинутые
+    - `Продвинутые (участие) <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94214>`_
+    - `Продвинутые (регистрация) <http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=94214>`_
