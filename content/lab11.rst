@@ -1,16 +1,18 @@
 Бинарный поиск
 ############################################
 
-:date: 2019-11-10 09:00
+:date: 2020-11-16 09:00
 :summary: Контест по бинарному поиску
-:status: draft
+:status: published
 
 .. default-role:: code
 .. contents:: Содержание
 
 
-Контест №9
-==========
-Участвовать_ в контесте.
+Контест №10
+===========
+Ссылки на контесты
 
-.. _Участвовать: http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94110
+- `Начинающие (участвовать) <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94224>`_
+- `Основные (участвовать) <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94225>`_
+- `Продвинутые (участвовать) <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94226>`_
