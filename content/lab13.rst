@@ -1,9 +1,9 @@
 Строки
 #############################################
 
-:date: 2019-11-25 09:00
+:date: 2019-11-30 09:00
 :summary: Строки в языке Python. Алгоритмы над строками
-:status: draft
+:status: publihed
 
 .. default-role:: code
 .. contents:: Содержание
@@ -152,7 +152,7 @@
 Даже операция инкрементирования создаёт новую строку, в чём можно убедиться, узнав их идентификатор (в данном случае это равносильно адресу в памяти):
 
 .. code-block:: pycon
-    
+
     >>> s = 'a'
     >>> id(s)
     4465232176
@@ -352,7 +352,7 @@
 Обратная операция это объединение массива строк в одну строку, она осуществляется с помощью `str.join`:
 
 .. code-block:: pycon
-    
+
     >>> sentence3 = 'вставка -- выбор -- пузырёк -- подсчёт -- Хоар -- слияние'
     >>> sort_algs = sentence3.split(' -- ')
     >>> sort_algs
@@ -384,8 +384,10 @@
 .. _ссылке: https://mipt-cs.github.io/python3-2017-2018/labs/lab13.html
 
 
-Контест №11
+Контест №12
 ===========
-Участвовать_ в контесте.
+Ссылки на контесты
 
-.. _Участвовать: http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94112
+- `Начинающие (участвовать) <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94230>`_
+- `Основные (участвовать) <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94231>`_
+- `Продвинутые (участвовать) <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94232>`_
