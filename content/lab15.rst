@@ -1,17 +1,16 @@
 Контрольная работа №2
-#############################################
+#####################
 
-:date: 2019-12-09 09:00
+:date: 2012-12-14 09:00
 :summary: Семестровая контрольная работа
-:status: draft
+:status: published
 
 .. default-role:: code
 
-Расписание и ссылки
-=================================
+Ссылки
+===========
+Ссылки на контесты
 
-.. Расписание появится.
-
-`14 декабря, суббота 17:05`__.
-
-.. __: http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=93121
+- `Начинающие (участвовать) <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94236>`_
+- `Основные (участвовать) <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94237>`_
+- `Продвинутые (участвовать) <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94238>`_
