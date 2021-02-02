@@ -111,7 +111,7 @@ Traceback показывает *последовательность/стэк в
 Запустим наш код
 
 .. code-block:: console
-    
+
     $ python3 solution.py
     Traceback (most recent call last):
       File "solution.py", line 5, in <module>
@@ -160,7 +160,7 @@ Traceback показывает *последовательность/стэк в
 Итог:
 
 .. code-block:: console
-    
+
     $ python3 solution.py
     Traceback (most recent call last):
       File "solution.py", line 5, in <module>
@@ -185,7 +185,7 @@ Traceback показывает *последовательность/стэк в
 Наиболее частая ошибка, которая возникает в программах на Python -- **SyntaxError**: когда какое-то утверждение записано не по правилам языка, например:
 
 .. code-block:: pycon
-    
+
     $ python3
     >>> print "hello"
       File "<stdin>", line 1
@@ -207,7 +207,7 @@ Traceback показывает *последовательность/стэк в
 При неправильном использовании пробелов и табуляций в начале строки возникает **IndentationError**:
 
 .. code-block:: pycon
-    
+
     $ python3
     >>> for i in range(5):
         print(i)
@@ -219,7 +219,7 @@ Traceback показывает *последовательность/стэк в
 А теперь посмотрим, что будет, если в первой строке цикла воспользоваться пробелами, а во второй - табуляцией:
 
 .. code-block:: pycon
-    
+
     $ python3
     >>> for i in range(5):
             print(i) # здесь пробелы
@@ -228,12 +228,12 @@ Traceback показывает *последовательность/стэк в
           print(i**2)
                     ^
     TabError: inconsistent use of tabs and spaces in indentation
-    
-    
+
+
 **NameError** возникает при обращении к несуществующей переменной:
 
 .. code-block:: pycon
-    
+
     $ python3
     >>> words = "Hello"
     >>> word
@@ -247,43 +247,43 @@ Traceback показывает *последовательность/стэк в
 Напишем простую программу на деление с остатком и сохраним как sample.py:
 
 .. code-block:: python
-    
+
     n = input()
     m = input()
     print(n % m)
-    
+
 
 и запустим её:
 
 .. code-block:: pycon
-    
+
     $ python3 sample.py
-    5  
+    5
     3
     Traceback (most recent call last):
       File "sample.py", line 3, in <module>
         print(n % m)
     TypeError: not all arguments converted during string formatting
-    
+
 Возникла ошибка **TypeError**, которая сообщает о неподходящем типе данных. Исправим программу:
 
 .. code-block:: python
-    
+
     n = int(input())
     m = int(input())
     print(n % m)
-    
+
 запустим на неподходящих данных:
 
 .. code-block:: pycon
-    
+
     $ python3 sample.py
     xyz
     Traceback (most recent call last):
       File "sample.py", line 1, in <module>
         n = int(input())
     ValueError: invalid literal for int() with base 10: 'xyz'
-    
+
 
 Возникнет **ValueError**.
 Эту ошибку ещё можно воспринимать как использование значения вне области допустимых значений (ОДЗ).
@@ -291,40 +291,40 @@ Traceback показывает *последовательность/стэк в
 Теперь запустим программу на числовых данных:
 
 .. code-block:: pycon
-    
+
     $ python3 sample.py
     1
-    0    
+    0
     Traceback (most recent call last):
       File "sample.py", line 3, in <module>
         print(n % m)
     ZeroDivisionError: integer division or modulo by zero
-    
+
 При работе с массивами нередко возникает ошибка **IndexError**. Она возникает при выходе за пределы массива:
 
 .. code-block:: pycon
-    
+
     $ python3
     >>> L1 = [1, 2, 3]
     >>> L1[3]
     Traceback (most recent call last):
       File "<stdin>", line 1, in <module>
     IndexError: list index out of range
-    
+
 Что будет, если вызвать бесконечную рекурсию? Опишем её в программе endless.py
 
 .. code-block:: python
-    
+
     def noend():
         print("Hello!")
         noend()
     noend()
-    
+
 
 Через некоторое время после запуска возникнет **RecursionError**:
 
 .. code-block:: pycon
-    
+
     Traceback (most recent call last):
       File "endless.py", line 4, in <module>
         noend()
@@ -338,11 +338,12 @@ Traceback показывает *последовательность/стэк в
       File "endless.py", line 2, in noend
         print("Hello!")
     RecursionError: maximum recursion depth exceeded while calling a Python object
-    
-    
 
-Контест №1
-==========
-Участвовать_ в контесте.
 
-.. _Участвовать: http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94114
+
+Контест на повторение
+=====================
+
+- `Начинающие (участвовать) <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94239>`_
+- `Основные (участвовать) <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94240>`_
+- `Продвинутые (участвовать) <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94241>`_
