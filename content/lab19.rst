@@ -1,15 +1,17 @@
 Хеширование и хеш-таблицы
 ##################################
 
-:date: 2020-02-18 09:00
+:date: 2021-02-17 09:00
 :summary: Ссылка на контест
 :status: draft
 
 .. default-role:: code
 .. contents:: Содержание
 
-Контест №2
-==========
-Участвовать_ в контесте.
+Ссылки
+===========
+Ссылки на контесты
 
-.. _Участвовать: http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94115
+- `Начинающие (участвовать) <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94242>`_
+- `Основные (участвовать) <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94243>`_
+- `Продвинутые (участвовать) <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94244>`_
