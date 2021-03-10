@@ -1,15 +1,16 @@
 Стэк, очередь, куча
 ###################
 
-:date: 2020-03-10 09:00
+:date: 2021-03-10 09:00
 :summary: Ссылка на контест
-:status: draft
+:status: published
 
 .. default-role:: code
 .. contents:: Содержание
 
-Контест №5
-==========
-Участвовать_ в контесте.
+Ссылки на контесты
+==================
 
-.. _Участвовать: http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94117
+- `Начинающие (участвовать) <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94251>`_
+- `Основные (участвовать) <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94252>`_
+- `Продвинутые (участвовать) <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94253>`_
