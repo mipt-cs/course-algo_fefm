@@ -11,9 +11,6 @@
 Контест
 =======
 
-Контест
-=======
-
 - `Начинающие (участвовать) <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94260>`_
 - `Основные (участвовать) <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94261>`_
 - Продвинутая группа, у вас на этой неделе нет контеста
