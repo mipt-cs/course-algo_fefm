@@ -3,7 +3,7 @@
 
 :date: 2020-12-7 9:00
 :summary: Ссылки на контесты
-:status: published
+:status: draft
 
 .. default-role:: code
 .. contents:: Содержание

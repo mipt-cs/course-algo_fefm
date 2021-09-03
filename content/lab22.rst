@@ -3,7 +3,7 @@
 
 :date: 2021-03-10 09:00
 :summary: Ссылка на контест
-:status: published
+:status: draft
 
 .. default-role:: code
 .. contents:: Содержание

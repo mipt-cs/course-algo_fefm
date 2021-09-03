@@ -3,7 +3,7 @@
 
 :date: 2020-11-09 09:00
 :summary: Алгоритмы быстрых сортировок
-:status: published
+:status: draft
 
 .. default-role:: code
 .. contents:: Содержание

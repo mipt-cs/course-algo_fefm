@@ -3,7 +3,7 @@
 
 :date: 2020-10-19 09:00
 :summary: Ссылка на контрольную
-:status: published
+:status: draft
 
 .. default-role:: code
 .. contents:: Содержание

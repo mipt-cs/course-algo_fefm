@@ -3,7 +3,7 @@ Cистемы счисления
 
 :date: 2020-09-28 09:00
 :summary: Системы счисления.
-:status: published
+:status: draft
 
 .. default-role:: code
 .. contents:: Содержание

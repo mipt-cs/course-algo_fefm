@@ -3,7 +3,7 @@
 
 :date: 2020-11-30 09:00
 :summary: Строки в языке Python. Алгоритмы над строками
-:status: published
+:status: draft
 
 .. default-role:: code
 .. contents:: Содержание
@@ -197,7 +197,7 @@
 Сразу приведём функцию, обратную функции `ord`, это функция `chr(i)`
 
 .. code-block:: pycon
-    
+
     >>> ord('a')
     97
     >>> chr(97)

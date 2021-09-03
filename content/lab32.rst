@@ -3,7 +3,7 @@
 
 :date: 2021-05-12 09:00
 :summary: Ссылки на контесты с контрольной работой.
-:status: published
+:status: draft
 
 .. default-role:: code
 .. contents:: Содержание

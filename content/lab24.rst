@@ -3,7 +3,7 @@
 
 :date: 2021-03-24 09:00
 :summary: Основы теории графов
-:status: published
+:status: draft
 
 .. default-role:: code
 .. contents:: Содержание

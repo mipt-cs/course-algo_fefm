@@ -3,7 +3,7 @@
 
 :date: 2020-10-12 09:00
 :summary: Массивы. Контест на массивы.
-:status: published
+:status: draft
 
 .. default-role:: code
 .. contents:: Содержание

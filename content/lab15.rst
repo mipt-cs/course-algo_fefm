@@ -3,7 +3,7 @@
 
 :date: 2020-12-14 09:00
 :summary: Семестровая контрольная работа
-:status: published
+:status: draft
 
 .. default-role:: code
 

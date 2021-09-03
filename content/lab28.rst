@@ -3,7 +3,7 @@
 
 :date: 2021-04-21 09:00
 :summary: Ссылки на контесты
-:status: published
+:status: draft
 
 .. default-role:: code
 .. contents:: Содержание

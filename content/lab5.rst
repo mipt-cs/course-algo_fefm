@@ -3,7 +3,7 @@
 
 :date: 2020-10-05 09:00
 :summary: Функции. Алгоритмы полного перебора. Делители.
-:status: published
+:status: draft
 
 .. default-role:: code
 .. contents:: Содержание
