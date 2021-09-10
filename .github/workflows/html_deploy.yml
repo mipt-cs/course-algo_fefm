@@ -7,6 +7,8 @@ jobs:
   main_job:
     runs-on: ubuntu-latest
     environment: deployment
+    env:
+      DEPLOY_KEYS: ${{ secrets.DEPLOY_KEYS }}
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-python@v2
