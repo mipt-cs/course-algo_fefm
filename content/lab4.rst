@@ -1,9 +1,9 @@
 Cистемы счисления
 #################
 
-:date: 2020-09-28 09:00
+:date: 2021-09-17 09:00
 :summary: Системы счисления.
-:status: draft
+:status: published
 
 .. default-role:: code
 .. contents:: Содержание
