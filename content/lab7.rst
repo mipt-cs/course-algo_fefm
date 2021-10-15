@@ -3,7 +3,7 @@
 
 :date: 2021-10-15 09:00
 :summary: Ссылка на контрольную
-:status: draft
+:status: published
 
 .. default-role:: code
 .. contents:: Содержание
