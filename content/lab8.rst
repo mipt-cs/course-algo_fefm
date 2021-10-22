@@ -1,9 +1,9 @@
 Сортировки
 ############################################
 
-:date: 2020-10-26 09:00
+:date: 2020-10-22 09:00
 :summary: Алгоритмы сортировок
-:status: draft
+:status: published
 
 .. default-role:: code
 .. contents:: Содержание
