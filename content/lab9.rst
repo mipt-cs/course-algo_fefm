@@ -1,9 +1,9 @@
 Рекурсия
 ############################################
 
-:date: 2020-11-02 09:00
+:date: 2021-10-29 09:00
 :summary: Контест, синтаксис
-:status: draft
+:status: published
 
 .. default-role:: code
 .. contents:: Содержание
