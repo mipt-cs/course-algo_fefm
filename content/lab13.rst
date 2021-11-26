@@ -1,9 +1,9 @@
 Строки
 #############################################
 
-:date: 2020-11-30 09:00
+:date: 2021-11-26 09:00
 :summary: Строки в языке Python. Алгоритмы над строками
-:status: draft
+:status: published
 
 .. default-role:: code
 .. contents:: Содержание
