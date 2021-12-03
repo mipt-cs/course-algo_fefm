@@ -1,9 +1,9 @@
 Контрольная работа №2
 #####################
 
-:date: 2020-12-14 09:00
+:date: 2021-12-10 09:00
 :summary: Семестровая контрольная работа
-:status: draft
+:status: published
 
 .. default-role:: code
 
