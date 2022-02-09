@@ -1,8 +1,8 @@
-Списки и геометрия
-##################
+Стэк, очередь, куча
+###################
 
-:date: 2021-03-03 09:00
-:summary: Ссылки на контесты
+:date: 2022-03-10 09:00
+:summary: Ссылка на контест
 :status: draft
 
 .. default-role:: code
@@ -11,6 +11,6 @@
 Ссылки на контесты
 ==================
 
-- `Начинающие (участвовать) <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94248>`_
-- `Основные (участвовать) <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94249>`_
-- `Продвинутые (участвовать) <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94250>`_
+- `Начинающие (участвовать) <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94251>`_
+- `Основные (участвовать) <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94252>`_
+- `Продвинутые (участвовать) <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94253>`_
