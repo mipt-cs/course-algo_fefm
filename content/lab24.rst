@@ -1,8 +1,8 @@
-Графы. Обход в глубину
-######################
+Графы. Обход в ширину
+#####################
 
-:date: 2022-03-31 09:00
-:summary: Контест, лекция
+:date: 2022-04-07 09:00
+:summary: Контест
 :status: draft
 
 .. default-role:: code
@@ -11,6 +11,6 @@
 Контест
 =======
 
-- `Начинающие (участвовать) <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94260>`_
-- `Основные (участвовать) <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94261>`_
-- Продвинутая группа, у вас на этой неделе нет контеста
+- `Начинающие (участвовать) <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94262>`_
+- `Основные (участвовать) <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94263>`_
+- `Продвинутые (участвовать) <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94264>`_
