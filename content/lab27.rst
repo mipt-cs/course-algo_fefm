@@ -1,19 +1,17 @@
-Контрольная работа №2
-#####################
+Графы. Остовные деревья
+#######################
 
-:date: 2022-05-05 09:00
-:summary: Семестровая контрольная работа
+:date: 2022-04-21 09:00
+:summary: Ссылки на контесты
 :status: draft
 
 .. default-role:: code
 .. contents:: Содержание
 
-Контест - Контрольная №2
-========================
 
-Контрольная длится 3 часа.
-Начало 05 марта 15:30, конец 05 марта 18:30.
+Контест
+=======
 
-- `Начинающие (участвовать) <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=>`_
-- `Основные (участвовать) <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=>`_
-- `Продвинутые (участвовать) <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=>`_
+- `Начинающие (участвовать) <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94268>`_
+- `Основные (участвовать) <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94269>`_
+- `Продвинутые (участвовать) <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94270>`_

@@ -1,16 +1,19 @@
-Основы теории графов
-####################
+Контрольная работа №1
+#####################
 
-:date: 2022-03-24 09:00
-:summary: Основы теории графов
+:date: 2022-03-15 09:00
+:summary: Контрольная работа по пройденным темам
 :status: draft
 
 .. default-role:: code
 .. contents:: Содержание
 
-Контест
-=======
+Контест - Контрольная №1
+========================
 
-- `Начинающие (участвовать) <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94257>`_
-- `Основные (участвовать) <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94258>`_
-- `Продвинутые (участвовать) <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94259>`_
+Контрольная длится 3 часа.
+Начало 15 марта 15:30, конец 15 марта 18:30.
+
+- `Начинающие (участвовать) <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94254>`_
+- `Основные (участвовать) <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94255>`_
+- `Продвинутые (участвовать) <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94256>`_
