@@ -3,7 +3,7 @@
 
 :date: 2022-03-16 09:00
 :summary: Контрольная работа по пройденным темам
-:status: draft
+:status: published
 
 .. default-role:: code
 .. contents:: Содержание
