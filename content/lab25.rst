@@ -3,7 +3,7 @@
 
 :date: 2022-04-06 09:00
 :summary: Контест
-:status: draft
+:status: published
 
 .. default-role:: code
 .. contents:: Содержание
