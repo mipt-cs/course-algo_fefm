@@ -1,9 +1,9 @@
 Графы. Остовные деревья
 #######################
 
-:date: 2022-04-21 09:00
+:date: 2022-04-13 09:00
 :summary: Ссылки на контесты
-:status: draft
+:status: published
 
 .. default-role:: code
 .. contents:: Содержание
