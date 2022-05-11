@@ -1,16 +1,16 @@
-Списки и геометрия
-##################
+Основы теории графов
+####################
 
-:date: 2022-05-15 09:00
-:summary: Ссылки на контесты
+:date: 2022-05-24 09:00
+:summary: Основы теории графов
 :status: draft
 
 .. default-role:: code
 .. contents:: Содержание
 
-Ссылки на контесты
-==================
+Контест
+=======
 
-- `Начинающие (участвовать) <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94248>`_
-- `Основные (участвовать) <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94249>`_
-- `Продвинутые (участвовать) <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94250>`_
+- `Начинающие (участвовать) <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94257>`_
+- `Основные (участвовать) <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94258>`_
+- `Продвинутые (участвовать) <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94259>`_
